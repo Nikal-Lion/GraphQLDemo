@@ -1,0 +1,8 @@
+.vs
+.vscode
+
+[bB]in/
+[oO]bj/
+
+*.log*
+*.xml
